@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RepoSemana4Ronald</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Titulo">Formulario</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="Correo">Correo</string>
+    <string name="Telefono">Telefono</string>
+    <string name="Enviar">Enviar</string>
+
+    <string name="boton">Formulario</string>
+
+
+</resources>
